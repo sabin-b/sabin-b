@@ -4,7 +4,7 @@
 - 🔭 Currently working as a Web Developer at Demanzo.
 - 🌱 Learning and growing in **React.js** development.
 - 💻 Passionate about building modern web applications with clean, maintainable code.
-- 🌐 Experienced with both frontend and backend development, focusing on full-stack web applications.
+- 🌐 Experienced with front and backend development, focusing on full-stack web applications.
 - 💾 Proficient in working with databases like MongoDB and PostgreSQL, and using **Prisma ORM** for efficient data management.
 
 ## 🚀 Tech Stack
@@ -32,23 +32,22 @@
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 🌟 Portfolio Projects:
-- **JobJunction App** *(Mini Project)*: Building a dynamic job board application called **JobJunction** using **React**, **Express.js**, **GraphQL**, **Apollo Client**, and **Prisma ORM**. This project simulates a job board app to connect job seekers with employers.
+
+- **JobJunction App** *(Mini Project, In Progress)*: Building a dynamic job board application called **JobJunction** using **React**, **Express.js**, **GraphQL**, **Apollo Client**, and **Prisma ORM**. This app will allow users to search for jobs, apply for jobs, save jobs, and manage their profiles.
   
-- **Task Manager App** *(Mini Project)*: Developing a task management application using **React** and **Firebase** to allow users to manage daily tasks effectively with real-time updates.
+- **Pizza Delivery App** *(Mini Project)*: A pizza ordering app built with **React**, **React Query**, **Redux**, and **REST APIs**. The app allows users to browse the menu, customize their orders, and track the delivery status in real time. [Check it out live here](https://redux-thunk-toolkit-advanced.vercel.app/).
 
 ## 📊 GitHub Stats:
 
-![Sabin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabin-b&show_icons=true&theme=radical)
+![Sabin's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabin-b&layout=compact&theme=radical)
-
-## 👥 Visitor Count:
-![Visitor Count](https://profile-counter.glitch.me/{sabin-b}/count.svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
 
 ## 📫 Connect with Me:
 - [LinkedIn](https://www.linkedin.com/in/sabinb-developer/)
-
