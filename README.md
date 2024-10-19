@@ -42,13 +42,13 @@
 
 ## 📊 GitHub Stats:
 
-![Sabin's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Sabin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabin-b&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabin-b&layout=compact&theme=radical)
 
 ## 👥 Visitor Count:
 ![Visitor Count](https://profile-counter.glitch.me/{your-username}/count.svg)
 
 ## 📫 Connect with Me:
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-profile)
+- [LinkedIn](https://www.linkedin.com/in/sabinb-developer/)
+
