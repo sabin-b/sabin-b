@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hello, I'm [Your Name] 👋
 
-<!--
-**sabin-b/sabin-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me:
+- 🔭 Currently working as a Web Developer at Demanzo.
+- 🌱 Learning and growing in **React.js** development.
+- 💻 Passionate about building modern web applications with clean, maintainable code.
 
-Here are some ideas to get you started:
+## Tech Stack:
+- Frontend: **React.js**, Redux, Next.js, HTML5, CSS3, JavaScript (ES6+)
+- Backend: Node.js, Express.js
+- Database: MongoDB, Firebase
+- Tools: Git, Webpack, VS Code, Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects:
+- Working on a personal project focused on building a dynamic task management app using React and Firebase.
+- Exploring server-side rendering with Next.js.
+
+## Connect with Me:
+- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [Twitter](https://twitter.com/your-profile)
