@@ -45,9 +45,9 @@
 
 ## 📊 GitHub Stats:
 
-![Sabin's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_title=true&count_private=true&exclude_repo=terraform_functions)
+![Sabin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabin-b&show_icons=true&theme=radical&hide_title=true&count_private=true&exclude_repo=terraform_functions)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&exclude_repo==terraform_functions)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabin-b&layout=compact&theme=radical&exclude_repo==terraform_functions)
 
 ## 🔥 GitHub Contributions
 
