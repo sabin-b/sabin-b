@@ -47,7 +47,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabin-b&layout=compact&theme=radical)
 
 ## 👥 Visitor Count:
-![Visitor Count](https://profile-counter.glitch.me/{your-username}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{sabin-b}/count.svg)
 
 ## 📫 Connect with Me:
 - [LinkedIn](https://www.linkedin.com/in/sabinb-developer/)
