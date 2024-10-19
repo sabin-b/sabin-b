@@ -47,10 +47,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabin-b&layout=compact&theme=radical&exclude_repo=terraform_functions)
 
-## 🔥 GitHub Contributions
-
-[![Sabin's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sabin-b&theme=react-dark)](https://github.com/sabin-b/github-readme-activity-graph)
-[![Sabin's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sabin-b&theme=react-dark&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ## 📫 Connect with Me:
 - [LinkedIn](https://www.linkedin.com/in/sabinb-developer/)
