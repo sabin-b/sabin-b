@@ -2,10 +2,10 @@
 
 ## About Me:
 - 🔭 Currently working as a Web Developer at Demanzo.
-- 🌱 Learning and growing in **React.js** development.
-- 💻 Passionate about building modern web applications with clean, maintainable code.
-- 🌐 Experienced with front and backend development, focusing on full-stack web applications.
-- 💾 Proficient in working with databases like MongoDB and PostgreSQL, and using **Prisma ORM** for efficient data management.
+- 🌱 Deepening my expertise in **React.js** and **Next.js**, while also gaining proficiency in **REST API development with Express** and **database management using TypeORM**.
+- 💻 Passionate about building modern, scalable web applications with clean, maintainable code.
+- 🌐 Experienced in both frontend and backend development, having worked on two **full-stack applications** at Demanzo.
+- 💾 Proficient in working with **PostgreSQL** and leveraging **TypeORM** for efficient database interactions.
 
 ## 🚀 Tech Stack
 
