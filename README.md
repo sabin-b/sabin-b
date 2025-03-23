@@ -11,6 +11,32 @@ Looking forward to connecting and building something amazing together! 🚀
 
 ---
 
+## 🔥 Current Project: **DevTinder**  
+
+Since **February**, I’ve been working on **DevTinder**, a full-stack project aimed at enhancing my skills in **Node.js** and **backend development**.  
+
+Initially, I had some doubts about **Node.js** and struggled with incomplete tutorials. However, after exploring multiple resources, I found the **Namaste Node.js** course by **Akshay Saini**, which helped clarify many of my questions.  
+
+Now, I’m actively building **DevTinder** using the following tech stack:  
+
+### 🖥️ **Frontend**  
+- **React** (for UI development)  
+- **TailwindCSS** (for styling)  
+- **TypeScript** (for type safety)  
+- **Zod** (for form validation)  
+- **React Query & Axios** (for API handling)  
+- **XSS & DOMPurify** (for security)  
+
+### ⚙️ **Backend**  
+- **Node.js & Express.js** (for server-side development)  
+- **TypeScript** (for better maintainability)  
+- **MongoDB & Mongoose** (for database management)  
+- **Class Validator & Class Transformer** (for data validation and transformation)  
+
+🔨 **Still in progress!** Excited to share updates as I build and refine this project. 🚀  
+
+---
+
 ## 🛠️ Tech Stack  
 
 ### 🖥️ Frontend  
