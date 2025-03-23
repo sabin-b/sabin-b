@@ -31,9 +31,14 @@ Looking forward to connecting and building something amazing together! 🚀
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)  
 
-### 🛢️ ORM (Object-Relational Mapping)  
-![TypeORM](https://img.shields.io/badge/TypeORM-2D3748?style=for-the-badge&logo=typeorm&logoColor=white) 
+### 🔄 ORM (Object-Relational Mapping)  
+*For SQL-based databases like PostgreSQL*  
+![TypeORM](https://img.shields.io/badge/TypeORM-2D3748?style=for-the-badge&logo=typeorm&logoColor=white)  
+
+### 📄 ODM (Object-Document Mapping)  
+*For NoSQL databases like MongoDB*  
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logoColor=white)  
+
 
 ### 🗄️ Databases  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
