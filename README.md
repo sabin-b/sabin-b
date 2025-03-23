@@ -4,8 +4,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sabin-b&theme=dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabin-b)]
-
 ## 🚀 About Me  
 Hi there! I'm **Sabin**, a passionate **MERN Stack Developer** with a strong background in **full-stack web development**. I love building modern, scalable, and high-performance applications that enhance user experiences.  
 
