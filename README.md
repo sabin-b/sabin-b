@@ -1,5 +1,7 @@
 # 👋 Hello, I'm Sabin  
 
+![](https://komarev.com/ghpvc/?username=sabin-b&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
+
 ## 🚀 About Me  
 Hi there! I'm **Sabin**, a passionate **MERN Stack Developer** with a strong background in **full-stack web development**. I love building modern, scalable, and high-performance applications that enhance user experiences.  
 
