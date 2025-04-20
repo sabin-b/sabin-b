@@ -5,13 +5,22 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sabin-b&theme=dark)](https://git.io/streak-stats)
 
 ## 🚀 About Me  
-Hi there! I'm **Sabin**, a passionate **MERN Stack Developer** with a strong background in **full-stack web development**. I love building modern, scalable, and high-performance applications that enhance user experiences.  
+👋 Hey, I’m Sabin!
 
-Currently, I'm working as a **Web Developer at Demanzo**, where I focus on writing clean, maintainable code and delivering seamless digital solutions. I specialize in **React.js, Next.js, Node.js, and Express**, with hands-on experience managing databases like **MongoDB and PostgreSQL**.  
+I’m a **frontend-focused full-stack developer** with a strong foundation in the **MERN stack**. I specialize in building **modern, scalable web applications** using technologies like **React.js**, **Next.js**, and **TypeScript**, with a focus on performance and user experience.
 
-Beyond coding, I enjoy exploring new web technologies, optimizing performance, and refining my skills in **API development, database management, and modern UI frameworks**. I'm always eager to learn, collaborate, and tackle new challenges in the ever-evolving world of web development.  
+💼 Currently, I work as a **Web Developer at Demanzo**, where I primarily focus on **frontend development** — creating performant UIs and delivering seamless digital experiences.
 
-Looking forward to connecting and building something amazing together! 🚀  
+📌 I'm currently working on **DevTinder**, a full-stack project focused on clean UI, backend structure, and scalable architecture.
+
+🧠 I’m also exploring:
+- Frontend System Design & Scalable UI Patterns  
+- Cloud Platforms: AWS, Docker, Vercel  
+- Web App Security & Core Web Vitals  
+
+I’m passionate about clean code, continuous learning, and building impactful web products.
+
+Let’s connect and build something amazing! 🚀
 
 ---
 
