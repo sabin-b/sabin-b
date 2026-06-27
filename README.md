@@ -1,113 +1,110 @@
-# 👋 Hello, I'm Sabin  
+# 👋 Hello, I'm Sabin
 
 ![](https://komarev.com/ghpvc/?username=sabin-b&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sabin-b&theme=dark)](https://git.io/streak-stats)
 
-## 🚀 About Me  
-👋 Hey, I’m Sabin!
+## 🚀 About Me
 
-I’m a **frontend-focused full-stack developer** with a strong foundation in the **MERN stack**. I specialize in building **modern, scalable web applications** using technologies like **React.js**, **Next.js**, and **TypeScript**, with a focus on performance and user experience.
+I'm a **Frontend Engineer** with nearly 4 years of experience building web applications, e-commerce solutions, and digital products using **React**, **Next.js**, **TypeScript**, **Shopify**, and modern frontend technologies.
 
-💼 Currently, I work as a **Web Developer at Demanzo**, where I primarily focus on **frontend development** — creating performant UIs and delivering seamless digital experiences.
+My journey began after completing my degree in 2022. While I initially explored cloud computing and AWS, I discovered a stronger passion for building user-facing products and transitioned into frontend development. Since then, I've worked across WordPress, React, Next.js, and Shopify ecosystems — contributing to business websites, e-commerce platforms, dashboard applications, and custom storefront experiences.
 
-📌 I'm currently working on **DevTinder**, a full-stack project focused on clean UI, backend structure, and scalable architecture.
+💼 Currently working as a **Junior Software Developer at Scube.co**, where I lead Shopify theme development, build full-stack food delivery applications, and develop internal AI workflow frameworks that measurably increase team productivity.
 
-🧠 I’m also exploring:
-- Frontend System Design & Scalable UI Patterns  
-- Cloud Platforms: AWS, Docker, Vercel  
-- Web App Security & Core Web Vitals  
-
-I’m passionate about clean code, continuous learning, and building impactful web products.
-
-Let’s connect and build something amazing! 🚀
+🧠 I'm currently exploring:
+- Data Structures & Algorithms
+- Frontend System Design & Scalable UI Patterns
+- Agentic AI Workflows & Developer Productivity Tools
+- Advanced JavaScript & TypeScript Patterns
 
 ---
 
-## 🔥 Current Project: **DevTinder**  
+## 🛠️ Tech Stack
 
-Since **February**, I’ve been working on **DevTinder**, a full-stack project aimed at enhancing my skills in **Node.js** and **backend development**.  
+### 🖥️ Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-Initially, I had some doubts about **Node.js** and struggled with incomplete tutorials. However, after exploring multiple resources, I found the **Namaste Node.js** course by **Akshay Saini**, which helped clarify many of my questions.  
+### ⚛️ Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-1E4AE9?style=for-the-badge)
+![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=for-the-badge)
 
-Now, I’m actively building **DevTinder** using the following tech stack:  
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
 
-### 🖥️ **Frontend**  
-- **React** (for UI development)  
-- **TailwindCSS** (for styling)  
-- **TypeScript** (for type safety)  
-- **Zod** (for form validation)  
-- **React Query & Axios** (for API handling)  
-- **XSS & DOMPurify** (for security)  
+### 🗄️ Database / ORM
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-2D3748?style=for-the-badge&logo=typeorm&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge)
 
-### ⚙️ **Backend**  
-- **Node.js & Express.js** (for server-side development)  
-- **TypeScript** (for better maintainability)  
-- **MongoDB & Mongoose** (for database management)  
-- **Class Validator & Class Transformer** (for data validation and transformation)  
+### 🛍️ E-commerce / CMS
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
+![Liquid](https://img.shields.io/badge/Liquid-000000?style=for-the-badge)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
-🔨 **Still in progress!** Excited to share updates as I build and refine this project. 🚀  
-
----
-
-## 🛠️ Tech Stack  
-
-### 🖥️ Frontend  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white) 
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white) 
-![Zod](https://img.shields.io/badge/Zod-1E4AE9?style=for-the-badge&logoColor=white) 
-![ShadCN UI](https://img.shields.io/badge/ShadCN_UI-000000?style=for-the-badge&logoColor=white) 
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge) 
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-
-### ⚙️ Backend  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)  
-
-### 🔄 ORM (Object-Relational Mapping)  
-*For SQL-based databases like PostgreSQL*  
-![TypeORM](https://img.shields.io/badge/TypeORM-2D3748?style=for-the-badge&logo=typeorm&logoColor=white)  
-
-### 📄 ODM (Object-Document Mapping)  
-*For NoSQL databases like MongoDB*  
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logoColor=white)  
-
-
-### 🗄️ Databases  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
-
-### 🛠️ Tools  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) 
-![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white) 
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white) 
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) 
-![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white) 
-![Google Chrome](https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white) 
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)  
+### 🤖 AI & Dev Tools
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 🌟 Portfolio Projects  
+## 📌 Featured Projects
 
-### 🍕 **Pizza Delivery App** *(Mini Project)*  
-A **pizza ordering app** built with **React, Redux, React Query**, and **REST APIs**.  
-Users can browse the menu, customize their orders, and track deliveries in real-time.  
+### 🔍 Regex Power Tool
+*AI-powered regex generation, explanation, and validation platform*  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-🔗 **Live Demo:** [Click Here](https://redux-thunk-toolkit-advanced.vercel.app/)  
+Uses LangChain + LangGraph with Ollama-compatible models for intelligent regex generation. End-to-end tested with Vitest and Playwright for production-grade reliability.
+
+#[GitHub](https://github.com/sabin-b) _(link)_
+
+### 💰 Trackr – Expense Tracker
+*Full-stack expense tracking with analytics dashboards*  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=for-the-badge)
+
+Mobile-first design with secure NextAuth authentication, multi-account management, income vs. expenses analytics, category breakdown, and balance trend visualizations.
+
+#[GitHub](https://github.com/sabin-b) _(link)_
 
 ---
 
-## 📫 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabinb-developer/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabinb1998sabinb@gmail.com)  
+## 🏆 Awards
+
+![Employee of the Month](https://img.shields.io/badge/Employee_of_the_Month-December_2025-FFD700?style=for-the-badge)
+![Web Development Rockstar](https://img.shields.io/badge/Web_Development_Rockstar-April_2024-FF6F00?style=for-the-badge)
+
+- **Employee of the Month** (Dec 2025) — Scube.co — Awarded for independently delivering a full Shopify store revamp with strong client satisfaction.
+- **Web Development Rockstar Award** (Apr 2024) — Demanzo Digital Marketing Agency — Recognized for rapid skill acquisition, high-quality project delivery, and positive client feedback across international accounts.
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabinb-frontend-engineer/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabinb1998sabinb@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sabin-b)
