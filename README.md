@@ -77,8 +77,6 @@ My journey began after completing my degree in 2022. While I initially explored 
 
 Uses LangChain + LangGraph with Ollama-compatible models for intelligent regex generation. End-to-end tested with Vitest and Playwright for production-grade reliability.
 
-#[GitHub](https://github.com/sabin-b) _(link)_
-
 ### 💰 Trackr – Expense Tracker
 *Full-stack expense tracking with analytics dashboards*  
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -88,8 +86,6 @@ Uses LangChain + LangGraph with Ollama-compatible models for intelligent regex g
 ![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=for-the-badge)
 
 Mobile-first design with secure NextAuth authentication, multi-account management, income vs. expenses analytics, category breakdown, and balance trend visualizations.
-
-#[GitHub](https://github.com/sabin-b) _(link)_
 
 ---
 
