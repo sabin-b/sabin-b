@@ -94,7 +94,7 @@ Mobile-first design with secure NextAuth authentication, multi-account managemen
 ![Employee of the Month](https://img.shields.io/badge/Employee_of_the_Month-December_2025-FFD700?style=for-the-badge)
 ![Web Development Rockstar](https://img.shields.io/badge/Web_Development_Rockstar-April_2024-FF6F00?style=for-the-badge)
 
-- **Employee of the Month** (Dec 2025) — Scube.co — Awarded for independently delivering a full Shopify store revamp with strong client satisfaction.
+- **Employee of the Month** (Dec 2025) — Scube.co — Recognized for quickly learning Shopify theme development, finding and fixing skill gaps through self-study, and delivering strong results on Shopify storefront projects.
 - **Web Development Rockstar Award** (Apr 2024) — Demanzo Digital Marketing Agency — Recognized for rapid skill acquisition, high-quality project delivery, and positive client feedback across international accounts.
 
 ---
